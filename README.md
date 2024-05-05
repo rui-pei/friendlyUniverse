@@ -6,6 +6,8 @@
 
 Friendly Universe is a Qualtrics survey template to anonymously measure the structure of individuals' social networks. Friendly Universe measures the nodes and edges of the network, as well as the group (i.e. family, friends), and the emotional closeness of each node. This tool is easy to use and can be custromized through Qualtrics and Javascript. 
 
+Demo: [Qualtrics link](https://stanforduniversity.qualtrics.com/jfe/form/SV_00Schgy8ozHiv8W)
+
 ### To use
 
 Download the Qualtrics qsf file ("friendlyUniverse.qsf"), and import it to your Qualtrics account. 
@@ -59,11 +61,9 @@ Data from this task will be stored in Qualtrics as [embedded data](https://www.q
 
 Other data (i.e. node labels) are anonymized and not recored. 
 
-### Try it yourself
+### Citation
 
-Try Friendly Universe at this link:
-
-https://upenn.co1.qualtrics.com/jfe/form/SV_0x3BOYw3ScZzzcF
+Pei, R., Brennan, C., O'Donnell, M., & Falk, E. (2022). Friendly Universe: a name generation-based tool for online egocentric network data collection. Zenodo. https://doi.org/10.5281/zenodo.6916737
 
 ### Contributor
 
